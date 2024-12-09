@@ -2,6 +2,6 @@
 
 ###
 
-<h3>Este repositório tem como objetivo partilhar todos os ficheiros feitos durante as sessões de formação</h3>
+<h3 align="center">📌 Este repositório tem como objetivo partilhar todos os ficheiros feitos durante as sessões de formação 📌</h3>
 
 ###
